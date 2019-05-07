@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://test:test@test-afda7.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://test:test@test-afda7.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret_4_slmern"
 }
