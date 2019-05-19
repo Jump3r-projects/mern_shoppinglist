@@ -89,7 +89,7 @@ export const login = ({ email, password }) => dispatch => {
 };
 
 //Logout current user
-export const logout = getState => {
+export const logout = () => {
   return {
     type: LOGOUT_SUCCESS
   };
